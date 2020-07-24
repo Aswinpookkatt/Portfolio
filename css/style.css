@@ -8514,6 +8514,11 @@ color: #ff5722;
    bottom:50px;
  }
   }
+  @media (max-width:450px) and (max-height:735px) {
+ .mouse{
+   bottom:90px;
+ }
+  }
 
 .mouse-icon {
   width: 70px;
@@ -9285,7 +9290,11 @@ textarea.form-control {
       font-weight: 400; }
     @media (max-width: 767.98px) {
       .heading-section h2 {
-        font-size: 38px; } }
+        font-size: 38px; }
+      .text-center{
+        position: absolute;
+        bottom: 10px;
+        } }
   .heading-section.heading-section-white .subheading {
     color: rgba(255, 255, 255, 0.9) !important; }
   .heading-section.heading-section-white h2 {
