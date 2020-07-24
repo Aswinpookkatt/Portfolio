@@ -7942,6 +7942,8 @@ button.bg-dark:focus {
 
 .text-center {
   text-align: center !important; }
+.text-center-head {
+  text-align: center !important; }
 
 @media (min-width: 576px) {
   .text-sm-left {
@@ -9291,7 +9293,7 @@ textarea.form-control {
     @media (max-width: 767.98px) {
       .heading-section h2 {
         font-size: 38px; }
-      .text-center{
+      .text-center-head {
         position: absolute;
         bottom: 10px;
         } }
