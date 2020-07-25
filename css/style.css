@@ -8263,10 +8263,12 @@ color: #ff5722;
       .ftco-navbar-light .navbar-nav > .nav-item > .nav-link span:before {
         content: "";
         position: absolute;
-        width: 100%;
+        width: 88%;
         height: 2px;
         bottom: 0;
-        left: 0;
+        left:0;
+        margin-left: 8px;
+
         background: #fff;
         visibility: visible;
         -webkit-transform: scaleX(0);
@@ -8550,7 +8552,7 @@ color: #ff5722;
     content: '';
     background: #ECECEC;
     z-index: -1;
-      box-shadow: 4px 4px 8px 0 rgba(0,0,0,0.3);
+      box-shadow: 0px 4px 8px 0 rgba(0,0,0,0.3);
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg); }
