@@ -330,7 +330,11 @@ h6, .h6 {
   .spce{
     min-height: 200px;
   }
+  @media (max-width: 768px) {
 
+  h2, .h2 {
+    font-size: 1.6rem; }
+}
 .lead {
   font-size: 1.25rem;
   font-weight: 300; }
