@@ -8215,7 +8215,7 @@ color: #ff5722;
         background-color: red;
       }
     .ftco-navbar-light {
-      background-color: #ECECEC;
+      background-color:#222831;
       box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
       position: relative;
       top: 0;
@@ -8550,7 +8550,7 @@ color: #ff5722;
     content: '';
     background: #ECECEC;
     z-index: -1;
-      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      box-shadow: 4px 4px 8px 0 rgba(0,0,0,0.3);
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg); }
